@@ -1,0 +1,16 @@
+@font-face {
+  font-family: aurebesh;
+  src: url("../fonts/AurebeshINV.otf");
+}
+
+.AureTxt {
+   font-family: aurebesh;
+
+}
+
+
+textarea {
+   font-size: 2em;
+   resize: none;
+
+}
